@@ -4,9 +4,6 @@
 
 # IK-MPC
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-
 [![Powered by the Robotics Toolbox](https://raw.githubusercontent.com/petercorke/robotics-toolbox-python/master/.github/svg/rtb_powered.min.svg)](https://github.com/petercorke/robotics-toolbox-python)
 
 Inverse Kinematics-based Model Predictive Control for Robot Motion Planning. Using Numerical inverse kinematics of a URDF model and Linear Quadratic Model Predictive Control (LQ-MPC), this code computes desired joint commands to follow reference path(s) that a robot needs to follow. Original MATLAB version and detailed documentation are available at [manipulator-mpc](https://github.com/twtoner/manipulator-mpc).
